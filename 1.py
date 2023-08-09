@@ -6,5 +6,5 @@ def is_palindrom(string):
     i = 0
     for i in range(0,len(list1)):
         list2.insert(i, list1[(len(list1)-1-i)])
-    print (list1 == list2)
-is_palindrom('dgfh')
+    print (list1==list2)
+is_palindrom('dfggfd')
